@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C87A1F4A29DA583B00FD3218 /* MainPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87A1F4929DA583B00FD3218 /* MainPageViewController.swift */; };
+		C87A1F4C29DA59A300FD3218 /* MyPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87A1F4B29DA59A300FD3218 /* MyPresenter.swift */; };
 		C88D76C029D0639D0083AD83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C88D76BF29D0639D0083AD83 /* AppDelegate.swift */; };
 		C88D76C229D0639D0083AD83 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C88D76C129D0639D0083AD83 /* SceneDelegate.swift */; };
 		C88D76C429D0639D0083AD83 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C88D76C329D0639D0083AD83 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C87A1F4929DA583B00FD3218 /* MainPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageViewController.swift; sourceTree = "<group>"; };
+		C87A1F4B29DA59A300FD3218 /* MyPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPresenter.swift; sourceTree = "<group>"; };
 		C88D76BC29D0639D0083AD83 /* DetailMovie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DetailMovie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C88D76BF29D0639D0083AD83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C88D76C129D0639D0083AD83 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				C88D76BF29D0639D0083AD83 /* AppDelegate.swift */,
 				C88D76C129D0639D0083AD83 /* SceneDelegate.swift */,
 				C88D76C329D0639D0083AD83 /* ViewController.swift */,
+				C87A1F4929DA583B00FD3218 /* MainPageViewController.swift */,
+				C87A1F4B29DA59A300FD3218 /* MyPresenter.swift */,
 				C88D76C529D0639D0083AD83 /* Main.storyboard */,
 				C88D76C829D0639E0083AD83 /* Assets.xcassets */,
 				C88D76CA29D0639E0083AD83 /* LaunchScreen.storyboard */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C87A1F4A29DA583B00FD3218 /* MainPageViewController.swift in Sources */,
+				C87A1F4C29DA59A300FD3218 /* MyPresenter.swift in Sources */,
 				C88D76C429D0639D0083AD83 /* ViewController.swift in Sources */,
 				C88D76C029D0639D0083AD83 /* AppDelegate.swift in Sources */,
 				C88D76C229D0639D0083AD83 /* SceneDelegate.swift in Sources */,
