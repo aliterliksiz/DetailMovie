@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E46D2A04-7CC4-47E4-87C6-4215E482871D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetailMovie/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "MovieDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263 - 1c909f8275324e69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetailMovie.MovieDetailViewController.presenter.getter : Swift.Optional&lt;DetailMovie.DetailPresenterInterface&gt;"
+                  moduleName = "DetailMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alit/Desktop/My%20Document/ios_tutorial/DetailMovie/DetailMovie/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263 - efa81091ad164a9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetailMovie.MovieDetailViewController.presenter.setter : Swift.Optional&lt;DetailMovie.DetailPresenterInterface&gt;"
+                  moduleName = "DetailMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alit/Desktop/My%20Document/ios_tutorial/DetailMovie/DetailMovie/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263 - e0f8c0c670dfbf6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetailMovie.MovieDetailViewController.presenter.modify : Swift.Optional&lt;DetailMovie.DetailPresenterInterface&gt;"
+                  moduleName = "DetailMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alit/Desktop/My%20Document/ios_tutorial/DetailMovie/DetailMovie/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263 - 5beb6b6cbb51a410"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetailMovie.MovieDetailViewController.presenter.modify : Swift.Optional&lt;DetailMovie.DetailPresenterInterface&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DetailMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alit/Desktop/My%20Document/ios_tutorial/DetailMovie/DetailMovie/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263 - 42a64e2cd1e3c035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetailMovie.MovieDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DetailMovie.MovieDetailViewController"
+                  moduleName = "DetailMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alit/Desktop/My%20Document/ios_tutorial/DetailMovie/DetailMovie/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "3FF41816-E2A8-4B8E-B15C-14ED80E69263 - 4370ff7b21a90bcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DetailMovie.MovieDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DetailMovie.MovieDetailViewController&gt;"
+                  moduleName = "DetailMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alit/Desktop/My%20Document/ios_tutorial/DetailMovie/DetailMovie/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4C3FD91-D43D-4B03-948D-02CA9190E666"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DetailMovie/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
