@@ -17,8 +17,6 @@ class MainPageViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        
     }
     
 
